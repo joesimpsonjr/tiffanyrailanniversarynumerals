@@ -12,3 +12,4 @@ Initially designed as a multi-color character set and intended for a jQuery coun
 * **<a href="http://www.adobe.com/products/illustrator.html">Adobe Illustrator</a>** - export to SGV and vector character creation;
 * **<a href="https://www.glyphsapp.com/buy">Glyphs Mini</a>** - font creation tool, demo used for project; and
 * **<a href="https://www.fontsquirrel.com/">Font Squirrel</a>** - free, web font generator 
+* **<a href="http://www.lynda.com/Glyphs-App-tutorials/Creating-Icon-Fonts-Web/157228-2.html">Creating Icon Fonts for the Web</a>, James Williamson Lynda.com
